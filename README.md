@@ -16,3 +16,5 @@ This section was created on the feature-documentation branch.
 ## GitHub
 This section was added directly through GitHub.
 
+## Collaboration
+This repository demonstrates a basic Git collaboration workflow.
